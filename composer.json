@@ -1,0 +1,23 @@
+{
+    "name": "Alanstormdotcom/Layoutviewer",
+    "type": "magento-module",
+    "license": "MIT",
+    "homepage": "http://alanstorm.com/layouts_blocks_and_templates",
+    "description": "The Unoficial \"Alanstorm.com Magento Layoutviewer module\" ",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+         "name": "Alan Storm", "email": "alanstorm@alanstorm.com"
+         
+        }
+    ],    
+
+    "repositories": [
+        {"type": "composer", "url": "http://packages.firegento.com"}
+        
+    ],
+
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
